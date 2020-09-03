@@ -14,5 +14,6 @@
 | `415630.4650.0` | [4156300046500000_4156300046500000.zip](https://github.com/QuestEscape/updates/releases/download/4156300046500000/4156300046500000_4156300046500000.zip) |
 | `415630.5860.0` | [4156300058600000_4156300058600000.zip](https://github.com/QuestEscape/updates/releases/download/4156300058600000/4156300058600000_4156300058600000.zip) |
 | `415630.6700.0` | [4156300067000000_4156300067000000.zip](https://github.com/QuestEscape/updates/releases/download/4156300067000000/4156300067000000_4156300067000000.zip) |
+| `434260.5030.0` | [4342600050300000_4342600050300000.zip](http://www.mediafire.com/file/ouw6f4cdybmck9l/4342600050300000_4342600050300000.zip/file) |
 
 We're looking for update packages for versions between `213561.4150.0` and `256550.6810.0`. If you've got one and would be okay sharing it with us, please open a PR to get in touch!
