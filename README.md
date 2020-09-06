@@ -24,7 +24,9 @@
 | `655140.1706.0` | [6551400170600000_6551400170600000.zip](https://github.com/kahlos/updates/releases/download/6551400170600000/6551400170600000_6551400170600000.zip) |
 | `655140.2352.0` | [6551400235200000_6551400235200000.zip](https://github.com/kahlos/updates/releases/download/6551400235200000/6551400235200000_6551400235200000.zip) |
 | `738660.2686.0` | [7386600268600000_7386600268600000.zip](https://github.com/kahlos/updates/releases/download/7386600268600000/7386600268600000_7386600268600000.zip) |
-| `821490.1321.0` | [8214900132100000_8214900132100000.zip](http://www.mediafire.com/file/mlv23o1x1gsnpjm/) |
+| `821490.1321.0` | [8214900132100000_8214900132100000.zip](https://github.com/kahlos/updates/releases/download/8214900132100000/8214900132100000_8214900132100000.zip) |
+| `904120.13150.0` | [10000000_733778840807572_3134597064107830720_n.zip](http://www.mediafire.com/file/qewy4hqr1exu9dt/10000000_733778840807572_3134597064107830720_n.zip/file) **Partial update from build 19 (821490.1321.0)** |
+
 
 
 We're looking for update packages for versions between `213561.4150.0` and `256550.6810.0`. If you've got one and would be okay sharing it with us, please open a PR to get in touch!
