@@ -25,8 +25,19 @@
 | `655140.2352.0` | [6551400235200000_6551400235200000.zip](https://github.com/kahlos/updates/releases/download/6551400235200000/6551400235200000_6551400235200000.zip) |
 | `738660.2686.0` | [7386600268600000_7386600268600000.zip](https://github.com/kahlos/updates/releases/download/7386600268600000/7386600268600000_7386600268600000.zip) |
 | `821490.1321.0` | [8214900132100000_8214900132100000.zip](https://github.com/kahlos/updates/releases/download/8214900132100000/8214900132100000_8214900132100000.zip) |
-| `904120.13150.0` | [10000000_733778840807572_3134597064107830720_n.zip](http://www.mediafire.com/file/qewy4hqr1exu9dt/10000000_733778840807572_3134597064107830720_n.zip/file) **Partial update from build 19 (821490.1321.0)** |
+| `904120.13150.0` | [10000000_733778840807572_3134597064107830720_n.zip](https://github.com/kahlos/updates/releases/download/904120131500/10000000_733778840807572_3134597064107830720_n.zip) **Partial update from build 19 (821490.1321.0)** |
 
 
+Bit of Googling and cross-referencing from some of the links in the sources to work out the build numbers, so not 100% that they're correct. Partial updates, file hashes and current Oculus changelog also available in the Mediafire folder in the sources. See the first three sites in the sources if the above download links go down.
 
 We're looking for update packages for versions between `213561.4150.0` and `256550.6810.0`. If you've got one and would be okay sharing it with us, please open a PR to get in touch!
+
+# Sources
+* http://www.mediafire.com/folder/ywtkkh7pn7f33/quest-firmware
+* https://github.com/QuestEscape/updates
+* https://dl.neat.sh/oculus/
+* https://github.com/Blueforcer/Quest_Updater
+* https://github.com/facebookincubator/oculus-linux-kernel
+* https://business.oculus.com/support/874441976388449/
+* https://www.reddit.com/r/oculusquest/wiki/guides/manualupdate
+* https://www.reddit.com/r/OculusQuest/comments/e9f19yguide_manually_update_to_v12_or_other_firmware/
